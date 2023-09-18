@@ -1,0 +1,22 @@
+h2{
+    text-decoration:underline;
+     font-weight:bold;
+}
+.font{
+    font-family: serif;
+    
+
+}
+
+.links {
+    color:rgb(236, 200, 110);
+    text-decoration:underline;
+    
+
+}
+.list {
+    list-style-type:none;
+}
+.item{
+    color:blue;
+}

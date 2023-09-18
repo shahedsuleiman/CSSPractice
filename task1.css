@@ -1,0 +1,15 @@
+h1 {
+    font-family: serif;
+    font-weight: bold;
+}
+table {
+    border-collapse: separate;
+    border-spacing: 8px;
+}
+
+td {
+    border: 1px solid;
+    padding:5px 5px 5px 5px;
+    border-radius:5px;
+    box-shadow:  5px 5px 5px #948d8d;
+}
